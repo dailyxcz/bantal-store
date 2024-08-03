@@ -6,56 +6,41 @@
 
 ## Owner Commands
 > Only authorized users from client dev configurations can use these commands.
-<details>
-  <summary>Maintenance</summary>
-  
-> Set maintenance mode (all commands will be disabled, and only authorized users can use the commands if it is on).
-- **commands:**
-  - [ ] **/maintenance**
-
-</details>
-<details>
-  <summary>Admin</summary>
-  
-> Actions for admin store access.
-- **commands:**
-  - **/admin**
-    - [ ] **/admin list**
-      - Description: Show admin lists.
-    - [ ] **/admin add [@user]** 
-      - Description: Add an admin.
-    - [ ] **/admin remove [@user]** 
-      - Description: Remove an admin.
-
-</details>
+- [ ] **/maintenance [on/off]**
+  - Set maintenance mode (all commands will be disabled, and only authorized users can use the commands if it is on). 
+- [ ] **/admin list**
+  - Show admin lists.
+- [ ] **/admin add [@user]** 
+  - Add an admin.
+- [ ] **/admin remove [@user]** 
+  - Remove an admin.
 
 ## General Commands
-> everyone can access this command except bots.
-<details>
-  <summary>order</summary>
-  
-> Actions for admin store access.
-- **commands:**
-  - [ ] **/order**
-    - [ ] **/admin list**
-      - Description: Show admin lists.
-    - [ ] **/admin add [@user]** 
-      - Description: Add an admin.
-    - [ ] **/admin remove [@user]** 
-      - Description: Remove an admin.
-
-</details>
-- [ ] **/order** - order 
-- [ ] Stock
-- [ ] Register
-- [ ] Leaderboard
-- [ ] Depo
-- [ ] Info
-- [ ] Help
+- [ ] **/order [productid] [amount]**
+  - make an order
+- [ ] **/products**
+  - show all available products
+- [ ] **/register [growId]**
+  - register growid for deposit
+- [ ] **/leaderboard**
+  - show top 10 leaderboard
+- [ ] **/deposit**
+  - make deposit
+- [ ] **/info**
+  - show bot information
+- [ ] **/help**
+  - show all bot commands
 
 ## Admin Commands
 
-- [ ] Give
+- [ ] **/balance add [@user] [type] [amount]**
+  - add user balance
+- [ ] **/balance sub [@user] [type] [amount]**
+  - substract user balance
+- [ ] **/balance set [@user] [type] [amount]**
+  - set user balance
+
+
 - [ ] Addstock (Bisa Optional Attachfile/not kalo bisa kalo ngga bisa langsung attachfile aj)
 - [ ] Addassets (Add Template Database)
 - [ ] Changeassets
