@@ -1,24 +1,51 @@
-## Client Config:
+# Client Config:
 - [x] Database : MongoDB
 - [x] Rpc : Bantal Store || Ultimate Top-Up & Service Center || Over {itemscount} Transactions Completed
 
-## Commands
+# Commands
 
-### Owner
+## Owner Commands
 > Only authorized users from client dev configurations can use these commands.
+<details>
+  <summary>Maintenance</summary>
+  
+> Set maintenance mode (all commands will be disabled, and only authorized users can use the commands if it is on).
+- **commands:**
+  - [ ] **/maintenance**
 
-- [x] **/maintenance** - Set maintenance mode (all commands will be disabled, and only authorized users can use the commands if it is on)
-- [ ] **/admin** - Actions for admin store access
-  - [ ] **list** - Show admin lists
-  - [ ] **add** - Add an admin
-  - [ ] **remove** - Remove an admin
+</details>
+<details>
+  <summary>Admin</summary>
+  
+> Actions for admin store access.
+- **commands:**
+  - **/admin**
+    - [ ] **/admin list**
+      - Description: Show admin lists.
+    - [ ] **/admin add [@user]** 
+      - Description: Add an admin.
+    - [ ] **/admin remove [@user]** 
+      - Description: Remove an admin.
 
+</details>
 
-
-### General:
+## General Commands
 > everyone can access this command except bots.
+<details>
+  <summary>order</summary>
+  
+> Actions for admin store access.
+- **commands:**
+  - [ ] **/order**
+    - [ ] **/admin list**
+      - Description: Show admin lists.
+    - [ ] **/admin add [@user]** 
+      - Description: Add an admin.
+    - [ ] **/admin remove [@user]** 
+      - Description: Remove an admin.
 
-- [ ] Order
+</details>
+- [ ] **/order** - order 
 - [ ] Stock
 - [ ] Register
 - [ ] Leaderboard
@@ -26,7 +53,7 @@
 - [ ] Info
 - [ ] Help
 
-### Admin:
+## Admin Commands
 
 - [ ] Give
 - [ ] Addstock (Bisa Optional Attachfile/not kalo bisa kalo ngga bisa langsung attachfile aj)
@@ -86,4 +113,3 @@
 - [ ] customize promo
 
 #### Note:
- 
