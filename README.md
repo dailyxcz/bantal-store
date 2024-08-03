@@ -1,14 +1,21 @@
-# Features:
+### Client Config:
 - [x] Database : MongoDB
 - [x] Rpc : [
         Watching - Bantal Store
         Bantal Store
         Ultimate Top-Up & Service Center
         Over {itemscount} Transactions Completed
-        Timelapse
     ]
+### Owner:
+only authorized || can be add in client devs configuration. !!required restart
+- [x] /maintenance - set maintenance mode (all commands will be disabled and only authorized can use the commands if its on)
+- [ ] /admin
+  - [ ] list - show admin lists
+  - [ ] add - add admin
+  - [ ] remove - remove admin
 
-### Customer // Public:
+
+### General:
 - [ ] Order
 - [ ] Stock
 - [ ] Register
@@ -17,10 +24,8 @@
 - [ ] Info
 - [ ] Help
 
-### Admin // Private:
+### Admin:
 - [ ] Give
-- [ ] Addadmin
-- [ ] Removeadmin
 - [ ] Addstock (Bisa Optional Attachfile/not kalo bisa kalo ngga bisa langsung attachfile aj)
 - [ ] Addassets (Add Template Database)
 - [ ] Changeassets
@@ -31,7 +36,6 @@
 - [ ] [Checkuser](https://discord.com/channels/1036152375091671140/1268954498542600388/1268954790927405149) (check user like saldo join ke server kapan (udah di server itu berapa lama) terus ada info dia spent berapa)
 - [ ] setwebhookfail // webhook fail donate add balance
 - [ ] setwebhooksold // webhook tiap kejual infoin stock siapa2 nya
-- [ ] showadmin
 - [ ] showasset
 - [ ] ban (banned + kata katain di general)
 - [ ] deploymenu
@@ -77,3 +81,6 @@
 - [ ] claimsold adminlist:(masing2 admin) take:(optional(nguranginwls)) // clear sold list dari fitur checksold
 - [ ] editclaim {worldclaim}
 - [ ] customize promo
+
+#### Note:
+ 
