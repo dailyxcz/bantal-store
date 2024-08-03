@@ -1,6 +1,6 @@
 # Features:
 - [x] Database : MongoDB
-- [ ] Rpc : [
+- [x] Rpc : [
         Watching - Bantal Store
         Bantal Store
         Ultimate Top-Up & Service Center
