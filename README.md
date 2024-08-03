@@ -1,21 +1,23 @@
-### Client Config:
+## Client Config:
 - [x] Database : MongoDB
-- [x] Rpc : [
-        Watching - Bantal Store
-        Bantal Store
-        Ultimate Top-Up & Service Center
-        Over {itemscount} Transactions Completed
-    ]
-### Owner:
-only authorized || can be add in client devs configuration. !!required restart
-- [x] /maintenance - set maintenance mode (all commands will be disabled and only authorized can use the commands if its on)
-- [ ] /admin
-  - [ ] list - show admin lists
-  - [ ] add - add admin
-  - [ ] remove - remove admin
+- [x] Rpc : Bantal Store || Ultimate Top-Up & Service Center || Over {itemscount} Transactions Completed
+
+## Commands
+
+### Owner
+> Only authorized users from client dev configurations can use these commands.
+
+- [x] **/maintenance** - Set maintenance mode (all commands will be disabled, and only authorized users can use the commands if it is on)
+- [ ] **/admin** - Actions for admin store access
+  - [ ] **list** - Show admin lists
+  - [ ] **add** - Add an admin
+  - [ ] **remove** - Remove an admin
+
 
 
 ### General:
+> everyone can access this command except bots.
+
 - [ ] Order
 - [ ] Stock
 - [ ] Register
@@ -25,6 +27,7 @@ only authorized || can be add in client devs configuration. !!required restart
 - [ ] Help
 
 ### Admin:
+
 - [ ] Give
 - [ ] Addstock (Bisa Optional Attachfile/not kalo bisa kalo ngga bisa langsung attachfile aj)
 - [ ] Addassets (Add Template Database)
@@ -52,7 +55,7 @@ only authorized || can be add in client devs configuration. !!required restart
 - [ ] stopmenu
 - [ ] stopleaderboard
 
-### Requested:
+## Requested:
 - [ ] deploymenu // ini bisa kaya takutnya kedepannya ga df doang kan jadi aku pengen, /deploymenu codeid:1
   - [ ] dia replies what u add text on text bla2 nya itu udah dikirim sama pengirim (limit 10menit kalo ga kedetek 10 menit jawab dia cancel)
   - [ ] terus replies lagi using embed? yes (embed format nanti dikasi)
