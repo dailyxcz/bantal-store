@@ -6,7 +6,7 @@
 
 ## Owner Commands
 > Only authorized users from client dev configurations can use these commands.
-- [ ] **/maintenance [on/off]**
+- [x] **/maintenance [on/off]**
   - Set maintenance mode (all commands will be disabled, and only authorized users can use the commands if it is on). 
 - [ ] **/admin list**
   - Show admin lists.
