@@ -28,7 +28,7 @@
   - make deposit
 - [x] **/info**
   - show bot information
-- [ ] **/me**
+- [x] **/me**
   - show your information
 - [x] **/help**
   - show all bot commands
