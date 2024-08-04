@@ -34,12 +34,13 @@
   - show all bot commands
 
 ## Admin Commands
-
-- [ ] **/balance add [@user] [amount]**
+- [x] **/edit channel logs [type] [#channel]**
+  - edit logs channels
+- [ ] **/edit balance add [@user] [amount]**
   - add user balance
-- [ ] **/balance sub [@user] [amount]**
+- [ ] **/edit balance sub [@user] [amount]**
   - substract user balance
-- [ ] **/balance set [@user] [amount]**
+- [ ] **/edit balance set [@user] [amount]**
   - set user balance
 
 
