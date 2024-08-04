@@ -36,11 +36,11 @@
 ## Admin Commands
 - [x] **/edit channel logs [type] [#channel]**
   - edit logs channels
-- [ ] **/edit balance add [@user] [amount]**
+- [x] **/edit balance add [@user] [amount]**
   - add user balance
-- [ ] **/edit balance sub [@user] [amount]**
+- [x] **/edit balance sub [@user] [amount]**
   - substract user balance
-- [ ] **/edit balance set [@user] [amount]**
+- [x] **/edit balance set [@user] [amount]**
   - set user balance
 
 
