@@ -20,7 +20,7 @@
   - make an order
 - [ ] **/products**
   - show all available products
-- [ ] **/register [growId]**
+- [x] **/register [growId]**
   - register growid for deposit
 - [ ] **/leaderboard**
   - show top 10 spender
