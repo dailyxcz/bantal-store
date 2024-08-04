@@ -23,7 +23,7 @@
 - [ ] **/register [growId]**
   - register growid for deposit
 - [ ] **/leaderboard**
-  - show top 10 leaderboard
+  - show top 10 spender
 - [ ] **/deposit**
   - make deposit
 - [x] **/info**
