@@ -35,11 +35,11 @@
 
 ## Admin Commands
 
-- [ ] **/balance add [@user] [type] [amount]**
+- [ ] **/balance add [@user] [amount]**
   - add user balance
-- [ ] **/balance sub [@user] [type] [amount]**
+- [ ] **/balance sub [@user] [amount]**
   - substract user balance
-- [ ] **/balance set [@user] [type] [amount]**
+- [ ] **/balance set [@user] [amount]**
   - set user balance
 
 
