@@ -26,9 +26,11 @@
   - show top 10 leaderboard
 - [ ] **/deposit**
   - make deposit
-- [ ] **/info**
+- [x] **/info**
   - show bot information
-- [ ] **/help**
+- [ ] **/me**
+  - show your information
+- [x] **/help**
   - show all bot commands
 
 ## Admin Commands
