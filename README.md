@@ -8,11 +8,11 @@
 > Only authorized users from client dev configurations can use these commands.
 - [x] **/maintenance [on/off]**
   - Set maintenance mode (all general commands will be disabled, and only authorized users can use the commands if it is on). 
-- [ ] **/admin list**
+- [x] **/admin list**
   - Show admin lists.
-- [ ] **/admin add [@user]** 
+- [x] **/admin add [@user]** 
   - Add an admin.
-- [ ] **/admin remove [@user]** 
+- [x] **/admin remove [@user]** 
   - Remove an admin.
 
 ## General Commands
