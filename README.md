@@ -79,6 +79,8 @@
   - Remove specific stock data from a product.
 - [x] **/edit stock pull [product_id] [amount]**
   - Pull and send pulled stock data.
+     
+
 #########
 - [ ] Addstock (Bisa Optional Attachfile/not kalo bisa kalo ngga bisa langsung attachfile aj)
 - [ ] Addassets (Add Template Database)
