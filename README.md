@@ -70,7 +70,15 @@
   - Modify Product From Category!
 - [x] **/edit product remove [product_id]**
   - Remove Product From Category!
-
+### edit product
+- [x] **/edit stock push [product_id] [product_data_file?] [product_data?]**
+  - Push your stock to product!
+- [x] **/edit stock clear [product_id]**
+  - Clear all your stock data from product.
+- [x] **/edit stock remove [product_id] [stock_data]**
+  - Remove specific stock data from a product.
+- [x] **/edit stock pull [product_id] [amount]**
+  - Pull and send pulled stock data.
 #########
 - [ ] Addstock (Bisa Optional Attachfile/not kalo bisa kalo ngga bisa langsung attachfile aj)
 - [ ] Addassets (Add Template Database)
