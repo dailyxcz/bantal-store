@@ -70,7 +70,7 @@
   - Modify Product From Category!
 - [x] **/edit product remove [product_id]**
   - Remove Product From Category!
-### edit product
+### edit stock
 - [x] **/edit stock push [product_id] [product_data_file?] [product_data?]**
   - Push your stock to product!
 - [x] **/edit stock clear [product_id]**
