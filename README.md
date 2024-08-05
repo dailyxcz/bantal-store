@@ -34,6 +34,7 @@
   - show all bot commands
 
 ## Admin Commands
+
 - [x] **/edit channel logs [type] [#channel]**
   - edit logs channels
 - [x] **/edit balance add [@user] [amount]**
@@ -42,6 +43,14 @@
   - substract user balance
 - [x] **/edit balance set [@user] [amount]**
   - set user balance
+     
+- [x] **/edit catalog create [catalog_name] [catalog_emoji]**
+  - Add Product Catalog!
+- [x] **/edit catalog remove [catalog_name]**
+  - Remove Product Catalog!
+- [x] **/edit catalog rename [catalog_name] [new_catalog_name] [new_catalog_emoji?]**
+  - Rename Product Catalog!
+
 
 
 - [ ] Addstock (Bisa Optional Attachfile/not kalo bisa kalo ngga bisa langsung attachfile aj)
