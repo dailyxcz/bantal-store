@@ -62,6 +62,13 @@
   - Modify Category From Catalog!
 - [x] **/edit category remove [category_name]**
   - Remove Category From Catalog
+### edit product
+- [x] **/edit product create [category_name] [product_id] [product_price] [product_description]**
+  - Create Product To Category!
+- [x] **/edit product modify [product_id] [new_product_id] [new_product_price] [new_product_description]**
+  - Modify Product From Category!
+- [x] **/edit product remove [product_id]**
+  - Remove Product From Category!
 
 #########
 - [ ] Addstock (Bisa Optional Attachfile/not kalo bisa kalo ngga bisa langsung attachfile aj)
