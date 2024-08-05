@@ -37,9 +37,10 @@
 ### edit channel
 - [x] **/edit channel logs [type] [#channel]**
   - edit logs channels
-### edit role
-- soon
 ### edit assets
+- [x] **/edit asset [type] [value]**
+  - edit assets
+### edit role
 - soon
 ### edit balance
 - [x] **/edit balance add [@user] [amount]**
