@@ -51,15 +51,15 @@
 ### edit catalog
 - [x] **/edit catalog create [catalog_name] [catalog_emoji]**
   - Add Catalog!
-- [x] **/edit catalog rename [catalog_name] [new_catalog_name] [new_catalog_emoji?]**
-  - Rename Catalog!
+- [x] **/edit catalog modify [catalog_name] [new_catalog_name] [new_catalog_emoji?]**
+  - Modify Catalog!
 - [x] **/edit catalog remove [catalog_name]**
   - Remove Catalog!
 ### edit category
 - [x] **/edit category create [catalog_name] [category_name]**
   - Create Category To Catalog!
-- [x] **/edit category rename [category_name] [new_category_name]**
-  - Rename Category From Catalog!
+- [x] **/edit category modify [category_name] [new_category_name]**
+  - Modify Category From Catalog!
 - [x] **/edit category remove [category_name]**
   - Remove Category From Catalog
 
