@@ -34,16 +34,19 @@
   - show all bot commands
 
 ## Admin Commands
-
+### edit channel
 - [x] **/edit channel logs [type] [#channel]**
   - edit logs channels
+### edit role
+- soon
+### edit balance
 - [x] **/edit balance add [@user] [amount]**
   - add user balance
 - [x] **/edit balance sub [@user] [amount]**
   - substract user balance
 - [x] **/edit balance set [@user] [amount]**
   - set user balance
-     
+### edit catalog
 - [x] **/edit catalog create [catalog_name] [catalog_emoji]**
   - Add Product Catalog!
 - [x] **/edit catalog remove [catalog_name]**
