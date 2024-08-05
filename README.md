@@ -22,7 +22,7 @@
   - show all available products
 - [x] **/register [growId]**
   - register growid for deposit
-- [ ] **/leaderboard**
+- [x] **/leaderboard**
   - show top 10 spender
 - [ ] **/deposit**
   - make deposit
