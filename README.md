@@ -87,7 +87,6 @@
 - [ ] addproduk
 - [ ] removeproduct
 - [ ] givestock
-- [ ] givecurrency
 - [ ] edit
 - [ ] setprice
 - [ ] setuser
