@@ -56,11 +56,11 @@
 - [x] **/edit catalog remove [catalog_name]**
   - Remove Catalog!
 ### edit category
-- [ ] **/edit category create [catalog_name] [category_name]**
+- [x] **/edit category create [catalog_name] [category_name]**
   - Create Category To Catalog!
-- [ ] **/edit category rename [category_name] [new_category_name]**
+- [x] **/edit category rename [category_name] [new_category_name]**
   - Rename Category From Catalog!
-- [ ] **/edit category remove [category_name]**
+- [x] **/edit category remove [category_name]**
   - Remove Category From Catalog
 
 #########
