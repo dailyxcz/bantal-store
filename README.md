@@ -39,6 +39,8 @@
   - edit logs channels
 ### edit role
 - soon
+### edit assets
+- soon
 ### edit balance
 - [x] **/edit balance add [@user] [amount]**
   - add user balance
