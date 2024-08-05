@@ -48,18 +48,18 @@
   - set user balance
 ### edit catalog
 - [x] **/edit catalog create [catalog_name] [catalog_emoji]**
-  - Add Product Catalog!
-- [x] **/edit catalog remove [catalog_name]**
-  - Remove Product Catalog!
+  - Add Catalog!
 - [x] **/edit catalog rename [catalog_name] [new_catalog_name] [new_catalog_emoji?]**
-  - Rename Product Catalog!
+  - Rename Catalog!
+- [x] **/edit catalog remove [catalog_name]**
+  - Remove Catalog!
 ### edit category
 - [ ] **/edit category create [catalog_name] [category_name]**
   - Create Category To Catalog!
-- [ ] **/edit category remove [category_name]**
-  - Remove Category From Catalog
 - [ ] **/edit category rename [category_name] [new_category_name]**
   - Rename Category From Catalog!
+- [ ] **/edit category remove [category_name]**
+  - Remove Category From Catalog
 
 #########
 - [ ] Addstock (Bisa Optional Attachfile/not kalo bisa kalo ngga bisa langsung attachfile aj)
