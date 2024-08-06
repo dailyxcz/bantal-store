@@ -40,8 +40,10 @@
 - [x] **/edit channel logs [type] [#channel]**
   - edit logs channels
 ### edit assets
-- [x] **/edit asset [type] [value]**
-  - edit assets
+- [x] **/edit asset set [type] [value]**
+  - Set asset!
+- [x] **/edit asset clear**
+  - Clear assets!
 ### edit role
 - soon
 ### edit balance
