@@ -79,7 +79,11 @@
   - Remove specific stock data from a product.
 - [x] **/edit stock pull [product_id] [amount]**
   - Pull and send pulled stock data.
-     
+### etc
+- [x] **/userinfo [@user]**
+  - Show user information.
+- [x] **/prefix [prefix]**
+  - Change prefix for simple command.
 
 #########
 - [ ] Setchannelhistory
