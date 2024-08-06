@@ -89,9 +89,6 @@
 - [ ] Setchannelhistory
 - [ ] Setdeposit
 - [ ] Setup (buat check bot ready digunakan atau belum)
-- [ ] [Checkuser](https://discord.com/channels/1036152375091671140/1268954498542600388/1268954790927405149) (check user like saldo join ke server kapan (udah di server itu berapa lama) terus ada info dia spent berapa)
-- [ ] setwebhookfail // webhook fail donate add balance
-- [ ] setwebhooksold // webhook tiap kejual infoin stock siapa2 nya
 - [ ] showasset
 - [ ] ban (banned + kata katain di general)
 - [ ] deploymenu
