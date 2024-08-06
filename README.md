@@ -86,7 +86,6 @@
   - Change prefix for simple command.
 
 #########
-- [ ] Setchannelhistory
 - [ ] Setdeposit
 - [ ] Setup (buat check bot ready digunakan atau belum)
 - [ ] showasset
