@@ -82,9 +82,6 @@
      
 
 #########
-- [ ] Addstock (Bisa Optional Attachfile/not kalo bisa kalo ngga bisa langsung attachfile aj)
-- [ ] Addassets (Add Template Database)
-- [ ] Changeassets
 - [ ] Setchannelhistory
 - [ ] Setdeposit
 - [ ] Setup (buat check bot ready digunakan atau belum)
