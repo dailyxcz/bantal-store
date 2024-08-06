@@ -14,6 +14,8 @@
   - Add an admin.
 - [x] **/admin remove [@user]** 
   - Remove an admin.
+- [x] **/admin permission [@user] [permission] [state]** 
+  - Edit admin permissions.
 
 ## General Commands
 - [ ] **/order [productid] [amount]**
