@@ -6,8 +6,6 @@
 
 ## Owner Commands
 > Only authorized users from client dev configurations can use these commands.
-- [x] **/maintenance [on/off]**
-  - Set maintenance mode (all general commands will be disabled, and only authorized users can use the commands if it is on). 
 ### admin
 - [x] **/admin create_category [category] [role]** 
   - Create admin category!
@@ -21,7 +19,9 @@
   - Remove an admin.
 - [x] **/admin permission [@user] [permission] [state]** 
   - Edit admin permissions.
-
+### etc
+- [x] **/maintenance [on/off]**
+  - Set maintenance mode (all general commands will be disabled, and only authorized users can use the commands if it is on). 
 ## General Commands
 - [ ] **/order [productid] [amount]**
   - make an order
