@@ -16,9 +16,11 @@
 - [x] **/admin remove_category [category]** 
   - Create admin category!
 - [x] **/admin add [@user] [category]** 
-  - Add an admin.
-- [x] **/admin remove [@user]** 
-  - Remove an admin.
+  - Add an admin to category.
+- [x] **/admin remove [@user] [category]**
+  - Remove an admin from category.
+- [x] **/admin delete [@user]** 
+  - Delete user from admin.
 - [x] **/admin permission [@user] [permission] [state]** 
   - Edit admin permissions.
 ### etc:
