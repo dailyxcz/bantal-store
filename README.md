@@ -7,12 +7,14 @@
 ## Owner Commands
 > Only authorized users from client dev configurations can use these commands.
 ### admin:
+- [x] **/admin list**
+  - Show admins list.
+- [x] **/admin info [@user]**
+  - Show all information about specified admin.
 - [x] **/admin create_category [category] [role]** 
   - Create admin category!
 - [x] **/admin remove_category [category]** 
   - Create admin category!
-- [x] **/admin list**
-  - Show admins list.
 - [x] **/admin add [@user] [category]** 
   - Add an admin.
 - [x] **/admin remove [@user]** 
