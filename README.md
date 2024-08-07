@@ -45,60 +45,69 @@
   - show all bot commands
 
 ## Admin Commands
-### edit channel:
-- [x] **/edit channel logs [type] [#channel]**
-  - edit logs channels
-### edit assets:
-- [x] **/assets**
-  - Show all assets!
-- [x] **/edit asset set [type] [value]**
-  - Set asset!
-- [x] **/edit asset clear**
-  - Clear assets!
-### edit role:
-- soon
-### edit balance:
-- [x] **/edit balance add [@user] [amount]**
-  - add user balance
-- [x] **/edit balance sub [@user] [amount]**
-  - substract user balance
-- [x] **/edit balance set [@user] [amount]**
-  - set user balance
-### edit catalog:
-- [x] **/edit catalog create [catalog_name] [catalog_emoji]**
-  - Add Catalog!
-- [x] **/edit catalog modify [catalog_name] [new_catalog_name] [new_catalog_emoji?]**
-  - Modify Catalog!
-- [x] **/edit catalog remove [catalog_name]**
-  - Remove Catalog!
-### edit category
-- [x] **/edit category create [catalog_name] [category_name]**
-  - Create Category To Catalog!
-- [x] **/edit category modify [category_name] [new_category_name]**
-  - Modify Category From Catalog!
-- [x] **/edit category remove [category_name]**
-  - Remove Category From Catalog
-### edit product:
-- [x] **/edit product create [category_name] [product_id] [product_price] [product_description]**
-  - Create Product To Category!
-- [x] **/edit product modify [product_id] [new_product_id] [new_product_price] [new_product_description]**
-  - Modify Product From Category!
-- [x] **/edit product remove [product_id]**
-  - Remove Product From Category!
-### edit stock:
-- [x] **/edit stock push [product_id] [product_data_file?] [product_data?]**
-  - Push your stock to product!
-- [x] **/edit stock clear [product_id]**
-  - Clear all your stock data from product.
-- [x] **/edit stock remove [product_id] [stock_data]**
+
+### Edit Channel
+- **/edit channel logs [type] [#channel]**
+  - Update the channel for specific log types.
+
+### Edit Assets
+- **/assets**
+  - Display all available assets.
+- **/edit asset set [type] [value]**
+  - Set the value for a specific asset.
+- **/edit asset clear**
+  - Clear all asset values.
+
+### Edit Role
+- Coming soon
+
+### Edit Balance
+- **/edit balance add [@user] [amount]**
+  - Increase a user's balance by the specified amount.
+- **/edit balance sub [@user] [amount]**
+  - Decrease a user's balance by the specified amount.
+- **/edit balance set [@user] [amount]**
+  - Set a user's balance to the specified amount.
+
+### Edit Catalog
+- **/edit catalog create [catalog_name] [catalog_emoji]**
+  - Create a new catalog with the specified name and emoji.
+- **/edit catalog modify [catalog_name] [new_catalog_name] [new_catalog_emoji?]**
+  - Modify an existing catalog's name and optionally its emoji.
+- **/edit catalog remove [catalog_name]**
+  - Remove an existing catalog.
+
+### Edit Category
+- **/edit category create [catalog_name] [category_name]**
+  - Create a new category within the specified catalog.
+- **/edit category modify [category_name] [new_category_name]**
+  - Change the name of an existing category.
+- **/edit category remove [category_name]**
+  - Delete a category from a catalog.
+
+### Edit Product
+- **/edit product create [category_name] [product_id] [product_price] [product_description]**
+  - Add a new product to a category with specified details.
+- **/edit product modify [product_id] [new_product_id] [new_product_price] [new_product_description]**
+  - Update the details of an existing product.
+- **/edit product remove [product_id]**
+  - Delete a product from a category.
+
+### Edit Stock
+- **/edit stock push [product_id] [product_data_file?] [product_data?]**
+  - Add stock to a product using a data file or direct data input.
+- **/edit stock clear [product_id]**
+  - Clear all stock data for a product.
+- **/edit stock remove [product_id] [stock_data]**
   - Remove specific stock data from a product.
-- [x] **/edit stock pull [product_id] [amount]**
-  - Pull and send pulled stock data.
-### etc:
-- [x] **/userinfo [@user]**
-  - Show user information.
-- [x] **/prefix [prefix]**
-  - Change prefix for simple command.
+- **/edit stock pull [product_id] [amount]**
+  - Retrieve and send the specified amount of stock data.
+
+### Miscellaneous
+- **/userinfo [@user]**
+  - Display information about a user.
+- **/prefix [prefix]**
+  - Change the command prefix for the bot.
 
 #########
 - [ ] Setdeposit
