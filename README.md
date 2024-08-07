@@ -6,7 +6,7 @@
 
 ## Owner Commands
 > Only authorized users from client dev configurations can use these commands.
-### admin
+### admin:
 - [x] **/admin create_category [category] [role]** 
   - Create admin category!
 - [x] **/admin remove_category [category]** 
@@ -19,7 +19,7 @@
   - Remove an admin.
 - [x] **/admin permission [@user] [permission] [state]** 
   - Edit admin permissions.
-### etc
+### etc:
 - [x] **/maintenance [on/off]**
   - Set maintenance mode (all general commands will be disabled, and only authorized users can use the commands if it is on). 
 ## General Commands
@@ -41,26 +41,26 @@
   - show all bot commands
 
 ## Admin Commands
-### edit channel
+### edit channel:
 - [x] **/edit channel logs [type] [#channel]**
   - edit logs channels
-### edit assets
+### edit assets:
 - [x] **/assets**
   - Show all assets!
 - [x] **/edit asset set [type] [value]**
   - Set asset!
 - [x] **/edit asset clear**
   - Clear assets!
-### edit role
+### edit role:
 - soon
-### edit balance
+### edit balance:
 - [x] **/edit balance add [@user] [amount]**
   - add user balance
 - [x] **/edit balance sub [@user] [amount]**
   - substract user balance
 - [x] **/edit balance set [@user] [amount]**
   - set user balance
-### edit catalog
+### edit catalog:
 - [x] **/edit catalog create [catalog_name] [catalog_emoji]**
   - Add Catalog!
 - [x] **/edit catalog modify [catalog_name] [new_catalog_name] [new_catalog_emoji?]**
@@ -74,14 +74,14 @@
   - Modify Category From Catalog!
 - [x] **/edit category remove [category_name]**
   - Remove Category From Catalog
-### edit product
+### edit product:
 - [x] **/edit product create [category_name] [product_id] [product_price] [product_description]**
   - Create Product To Category!
 - [x] **/edit product modify [product_id] [new_product_id] [new_product_price] [new_product_description]**
   - Modify Product From Category!
 - [x] **/edit product remove [product_id]**
   - Remove Product From Category!
-### edit stock
+### edit stock:
 - [x] **/edit stock push [product_id] [product_data_file?] [product_data?]**
   - Push your stock to product!
 - [x] **/edit stock clear [product_id]**
@@ -90,7 +90,7 @@
   - Remove specific stock data from a product.
 - [x] **/edit stock pull [product_id] [amount]**
   - Pull and send pulled stock data.
-### etc
+### etc:
 - [x] **/userinfo [@user]**
   - Show user information.
 - [x] **/prefix [prefix]**
