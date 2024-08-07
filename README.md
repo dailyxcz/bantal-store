@@ -8,9 +8,14 @@
 > Only authorized users from client dev configurations can use these commands.
 - [x] **/maintenance [on/off]**
   - Set maintenance mode (all general commands will be disabled, and only authorized users can use the commands if it is on). 
+### admin
+- [x] **/admin create_category [category] [role]** 
+  - Create admin category!
+- [x] **/admin remove_category [category]** 
+  - Create admin category!
 - [x] **/admin list**
-  - Show admin lists.
-- [x] **/admin add [@user]** 
+  - Show admins list.
+- [x] **/admin add [@user] [category]** 
   - Add an admin.
 - [x] **/admin remove [@user]** 
   - Remove an admin.
@@ -40,6 +45,8 @@
 - [x] **/edit channel logs [type] [#channel]**
   - edit logs channels
 ### edit assets
+- [x] **/assets**
+  - Show all assets!
 - [x] **/edit asset set [type] [value]**
   - Set asset!
 - [x] **/edit asset clear**
