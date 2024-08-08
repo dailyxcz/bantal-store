@@ -6,7 +6,7 @@
 
 ## Owner Commands
 > Only authorized users from client dev configurations can use these commands.
-### admin:
+### Admin
 - [x] **/admin list**
   - Show admins list.
 - [x] **/admin info [@user]**
@@ -23,9 +23,12 @@
   - Delete user from admin.
 - [x] **/admin permission [@user] [permission] [state]** 
   - Edit admin permissions.
-### etc:
+### Miscellaneous
 - [x] **/maintenance [on/off]**
   - Set maintenance mode (all general commands will be disabled, and only authorized users can use the commands if it is on). 
+- [ ] **/shop settings**
+  - easy setup
+
 ## General Commands
 - [ ] **/order [productid] [amount]**
   - make an order
