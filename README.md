@@ -11,14 +11,14 @@
   - Show admins list.
 - [x] **/admin info [@user]**
   - Show all information about specified admin.
-- [x] **/admin create_category [category] [role]** 
-  - Create admin category!
-- [x] **/admin remove_category [category]** 
-  - Create admin category!
-- [x] **/admin add [@user] [category]** 
-  - Add an admin to category.
-- [x] **/admin remove [@user] [category]**
-  - Remove an admin from category.
+- [x] **/admin group create [group] [role]** 
+  - Create admin group!
+- [x] **/admin group remove [group]** 
+  - Remove admin group!
+- [x] **/admin add [@user] [group]** 
+  - Add an admin to group.
+- [x] **/admin remove [@user] [group]**
+  - Remove an admin from group.
 - [x] **/admin delete [@user]** 
   - Delete user from admin.
 - [x] **/admin permission [@user] [permission] [state]** 
