@@ -27,10 +27,6 @@
 ### Miscellaneous
 - [x] **/maintenance [on/off]**
   - Set maintenance mode (all general commands will be disabled, and only authorized users can use the commands if it is on). 
-- [ ] **/shop settings**
-  - easy setup
-- [ ] **/embed**
-  - Embed creator, generated embed can be used in some commands!
 
 ## General Commands
 - [ ] **/order [productid] [amount]**
@@ -114,6 +110,10 @@
   - Display information about a user.
 - **/prefix [prefix]**
   - Change the command prefix for the bot.
+- [ ] **/shop settings**
+  - easy setup
+- [ ] **/embed**
+  - Embed creator, generated embed can be used in some commands!
 
 #########
 - [ ] Setdeposit
