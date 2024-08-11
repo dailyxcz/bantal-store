@@ -7,18 +7,20 @@
 ## Owner Commands
 > Only authorized users from client dev configurations can use these commands.
 ### Admin Group
-- [x] **/admin group create [group] [role]** 
+- [x] **/admin group create [catalog_name] [group_name] [group_role]** 
   - Create admin group!
-- [x] **/admin group remove [group]** 
+- [x] **/admin group modify [group_name] [new_catalog_name] [new_group_name] [group_role]** 
+  - Create admin group!
+- [x] **/admin group remove [group_name]** 
   - Remove admin group!
 ### Admin
 - [x] **/admin list**
   - Show admins list.
 - [x] **/admin info [@user]**
   - Show all information about specified admin.
-- [x] **/admin add [@user] [group]** 
+- [x] **/admin add [@user] [group_name]** 
   - Add an admin to group.
-- [x] **/admin remove [@user] [group]**
+- [x] **/admin remove [@user] [group_name]**
   - Remove an admin from group.
 - [x] **/admin delete [@user]** 
   - Delete user from admin.
