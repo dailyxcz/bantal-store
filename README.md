@@ -51,16 +51,20 @@
 ## Admin Commands
 
 ### Edit Channel
-- **/edit channel logs [type] [#channel]**
-  - Update the channel for specific log types.
+- **/channels**
+  - Show channels DB.
+- **/edit channel set [channel_type] [@channel]**
+  - Set channel DB.
+- **/edit channel clear**
+  - Clear channels DB.
 
 ### Edit Assets
 - **/assets**
-  - Display all available assets.
-- **/edit asset set [type] [value]**
-  - Set the value for a specific asset.
+  - Show assets DB.
+- **/edit asset set [asset_type] [asset_value]**
+  - Set asset DB.
 - **/edit asset clear**
-  - Clear all asset values.
+  - Clear assets DB.
 
 ### Edit Role
 - Coming soon
