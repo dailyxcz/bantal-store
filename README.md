@@ -67,7 +67,7 @@
   - Clear assets DB.
 
 ### Edit Role
-- Coming soon
+- Coming soon [buyer, timeout, cursed, ...]
 
 ### Edit Balance
 - **/edit balance add [@user] [amount]**
