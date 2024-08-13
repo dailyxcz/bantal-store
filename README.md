@@ -33,7 +33,7 @@
 ## General Commands
 - [ ] **/order [productid] [amount]**
   - make an order
-- [ ] **/products**
+- [x] **/products**
   - show all available products
 - [x] **/register [growId]**
   - register growid for deposit
