@@ -43,7 +43,7 @@
   - make deposit
 - [x] **/info**
   - show bot information
-- [x] **/me**
+- [x] **/myinfo**
   - show your information
 - [x] **/help**
   - show all bot commands
