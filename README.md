@@ -116,6 +116,8 @@
   - Display information about a user.
 - **/prefix [prefix]**
   - Change the command prefix for the bot.
+- **/shopstats**
+  - Show admins product sold stat
 - [ ] **/shop settings**
   - easy setup
 - [ ] **/embed**
@@ -151,19 +153,6 @@
   - [ ] 2. Edit Embed
   - [ ] 3. Edit BannerEmbed
 - [ ] deploymenudelete // codeid:1
-- [ ] chartsold adminlist:(masing2 admin bisa check perday sold & bisa misal alladmin) day:1-30  /// Apexchart keanya
-- [ ] checksold adminlist:(masing2 admin bisa check  & bisa alladmin)
-  - [ ] formatnya kalo alladmin Embed
-    - [ ] # Admin Stock List
-      - [ ] @NameAdmin - Stock : 11 - Sold : 5 - 200 :Wls:
-      - [ ] Paling Bawah tambahin
-        - [ ] World Claim : {world}
-  - [ ] formatnya kalo masing2 admin kaya info balance aja paling gantiin GrowID jadi Admin Name/id ngetag terus Balancenya ganti jadi Sold Count
-    - [ ] terus Total Spendnya ganti jadi Total Balance (Balance : Sold Wls)
-    - [ ] Paling Bawah tambahin
-      - [ ] World Claim : {world}
-- [ ] claimsold adminlist:(masing2 admin) take:(optional(nguranginwls)) // clear sold list dari fitur checksold
-- [ ] editclaim {worldclaim}
 - [ ] customize promo
 
 #### Note:
