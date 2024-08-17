@@ -120,7 +120,7 @@
   - Show admins product sold stat
 - [ ] **/shop settings**
   - easy setup
-- [ ] **/embed**
+- **/embed**
   - Embed creator, generated embed can be used in some commands!
 
 #########
