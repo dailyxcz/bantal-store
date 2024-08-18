@@ -126,10 +126,7 @@
 #########
 - [ ] Setdeposit
 - [ ] Setup (buat check bot ready digunakan atau belum)
-- [ ] showasset
 - [ ] ban (banned + kata katain di general)
-- [ ] deploymenu
-- [ ] deployleaderboard
 - [ ] givestock
 - [ ] edit
 - [ ] setprice
