@@ -118,8 +118,6 @@
   - Change the command prefix for the bot.
 - **/shopstats**
   - Show admins product sold stat
-- [ ] **/shop settings**
-  - easy setup
 - **/embed**
   - Embed creator, generated embed can be used in some commands!
 
